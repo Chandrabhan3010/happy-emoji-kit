@@ -5,4 +5,4 @@
 
 ![live previev](./scrrenshot/livepreviev.png)
 
-[click here to see live website ]([url](http://localhost:3000/))
+[click here to see live website ]([url](https://happy-emoji-kit.netlify.app/))
